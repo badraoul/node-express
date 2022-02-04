@@ -12,5 +12,5 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=node-express'
 spec:
   type: service
-  lifecycle: experimental
-  owner: default-team
+  lifecycle: demo
+  owner: team-a
